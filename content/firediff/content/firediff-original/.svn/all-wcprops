@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original
+END
+events.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original/events.js
+END
+domEvents.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original/domEvents.js
+END
+domplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original/domplate.js
+END
+search.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original/search.js
+END
+diff.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original/diff.js
+END
+versionCompat.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original/versionCompat.js
+END
+cssModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original/cssModel.js
+END
+firediff.xul
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original/firediff.xul
+END
+path.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original/path.js
+END
+cssEvents.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original/cssEvents.js
+END
+diffModule.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original/diffModule.js
+END
+pages.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original/pages.js
+END
+diffMonitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff-original/diffMonitor.js
+END

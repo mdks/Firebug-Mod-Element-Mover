@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/build.bat
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/readme.txt
+END
+build-config.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/build-config.js
+END

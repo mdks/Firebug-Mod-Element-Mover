@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/require
+END
+text.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/require/text.js
+END
+order.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/require/order.js
+END
+i18n.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/require/i18n.js
+END
+rhino.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/require/rhino.js
+END
+transportD.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/require/transportD.js
+END

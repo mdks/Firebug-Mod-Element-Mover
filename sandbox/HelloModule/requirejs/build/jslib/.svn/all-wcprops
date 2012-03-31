@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/build/jslib
+END
+commonJs.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/build/jslib/commonJs.js
+END
+commandLine.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/build/jslib/commandLine.js
+END
+pragma.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/build/jslib/pragma.js
+END
+parse.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/build/jslib/parse.js
+END
+requirePatch.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/build/jslib/requirePatch.js
+END
+fileUtil.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/build/jslib/fileUtil.js
+END
+build.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/build/jslib/build.js
+END
+logger.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/build/jslib/logger.js
+END
+optimize.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/build/jslib/optimize.js
+END
+lang.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/requirejs/build/jslib/lang.js
+END

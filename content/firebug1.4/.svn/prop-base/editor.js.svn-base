@@ -1,0 +1,10 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 150
+/branches/firebug1.4/content/firebug/editor.js:2706-3094,3107,3109-3113
+/lite/branches/firebug1.4/content/firebug1.4/editor.js:10274-10276,10278-10282
+END

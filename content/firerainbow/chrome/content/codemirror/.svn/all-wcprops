@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/chrome/content/codemirror
+END
+parsehtmlmixed.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/chrome/content/codemirror/parsehtmlmixed.js
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/chrome/content/codemirror/LICENSE
+END
+tokenize.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/chrome/content/codemirror/tokenize.js
+END
+parsexml.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/chrome/content/codemirror/parsexml.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/chrome/content/codemirror/util.js
+END
+tokenizejavascript.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/chrome/content/codemirror/tokenizejavascript.js
+END
+parsejavascript.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/chrome/content/codemirror/parsejavascript.js
+END
+stringstream.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/chrome/content/codemirror/stringstream.js
+END
+parsecss.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/chrome/content/codemirror/parsecss.js
+END

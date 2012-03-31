@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/app/modules/Core
+END
+FBTrace.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/app/modules/Core/FBTrace.js
+END
+CSS.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/app/modules/Core/CSS.js
+END
+Base.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/app/modules/Core/Base.js
+END
+DOM.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/app/modules/Core/DOM.js
+END
+Event.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10288/lite/branches/firebug1.5/sandbox/HelloModule/app/modules/Core/Event.js
+END

@@ -1,0 +1,12 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 294
+/branches/firebug1.4/content/firebug/sourceCache.js:2706-3094,3107,3109-3113
+/branches/firebug1.5/content/firebug/sourceCache.js:4674-5397,5755
+/branches/firebug1.6/content/firebug/sourceCache.js:7450-7467,7470
+/lite/branches/firebug1.4/content/firebug1.4/sourceCache.js:10274-10276,10278-10282
+END

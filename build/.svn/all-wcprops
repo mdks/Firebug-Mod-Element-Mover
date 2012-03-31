@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10289/lite/branches/firebug1.5/build
+END
+compress.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10240/lite/branches/firebug1.5/build/compress.bat
+END
+firebug-lite-beta.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10240/lite/branches/firebug1.5/build/firebug-lite-beta.js
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10240/lite/branches/firebug1.5/build/build.bat
+END
+template .htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10240/lite/branches/firebug1.5/build/template%20.htaccess
+END
+firebug-lite.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10240/lite/branches/firebug1.5/build/firebug-lite.js
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10240/lite/branches/firebug1.5/build/.htaccess
+END
+firebug-lite-debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10289/lite/branches/firebug1.5/build/firebug-lite-debug.js
+END

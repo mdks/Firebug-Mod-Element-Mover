@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/license.txt
+END
+install.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/install.rdf
+END
+rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/rakefile
+END
+chrome.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/chrome.manifest
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/.gitignore
+END
+readme.md
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firerainbow/readme.md
+END

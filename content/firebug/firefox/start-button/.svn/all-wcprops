@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11659/branches/firebug1.8/content/firebug/firefox/start-button
+END
+startButton.css
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11308/branches/firebug1.8/content/firebug/firefox/start-button/startButton.css
+END
+startButtonOverlay.xul
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10798/branches/firebug1.8/content/firebug/firefox/start-button/startButtonOverlay.xul
+END
+startButtonOverlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11659/branches/firebug1.8/content/firebug/firefox/start-button/startButtonOverlay.js
+END
+startButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10767/branches/firebug1.8/content/firebug/firefox/start-button/startButton.xml
+END
+customizeToolbarOverlay.xul
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10767/branches/firebug1.8/content/firebug/firefox/start-button/customizeToolbarOverlay.xul
+END

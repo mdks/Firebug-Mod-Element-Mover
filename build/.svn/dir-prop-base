@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 74
+gzip.exe
+libiconv-2.dll
+libintl-2.dll
+pub
+tar.exe
+yuicompressor-2.4.2.jar
+
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10289/lite/branches/firebug1.5/tests/examples
+END
+sync.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10289/lite/branches/firebug1.5/tests/examples/sync.html
+END
+async.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10289/lite/branches/firebug1.5/tests/examples/async.html
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10289/lite/branches/firebug1.5/tests/examples/test.txt
+END
+fail.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10289/lite/branches/firebug1.5/tests/examples/fail.html
+END

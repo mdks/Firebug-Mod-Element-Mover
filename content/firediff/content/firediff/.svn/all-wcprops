@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff
+END
+events.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff/events.js
+END
+domEvents.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff/domEvents.js
+END
+domplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff/domplate.js
+END
+search.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff/search.js
+END
+diff.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff/diff.js
+END
+versionCompat.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff/versionCompat.js
+END
+cssModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff/cssModel.js
+END
+firediff.xul
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff/firediff.xul
+END
+path.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff/path.js
+END
+cssEvents.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff/cssEvents.js
+END
+diffModule.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff/diffModule.js
+END
+pages.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff/pages.js
+END
+diffMonitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10240/lite/branches/firebug1.5/content/firediff/content/firediff/diffMonitor.js
+END

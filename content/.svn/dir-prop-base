@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 76
+firebug  http://fbug.googlecode.com/svn/branches/firebug1.8/content/firebug
+
+END
